@@ -2,7 +2,7 @@
 
 Your complete guide to learning Flexbox.
 
-Releasing the tutorial on YouTube soon!
+See the complete tutorial here - [https://www.youtube.com/playlist?list=PLGyA74h_S9NrkKnaIrYeOolru4EakosHY](https://www.youtube.com/playlist?list=PLGyA74h_S9NrkKnaIrYeOolru4EakosHY)
 
 View the website - [http://theleanprogrammer.com/flex/](http://theleanprogrammer.com/flex/)
 
